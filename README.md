@@ -3,15 +3,15 @@ Create a tool for OSI computers similar to the ADTPro tool for Apple II computer
 
 Intro:
 
-ADTPro (Apple Disk Tool ProDOS), is an amazing tool for Apple II computers.  Using nothing but a serial
-connection, ADTPRo can push across a small assembly program that allows a PC to push across ProDOS operating
-system, boot the Apple II and move disk images to the Apple II.  The OSI world has some pieces of this 
-functionality with the disk tools of David Gesswein and Mark Spankus.  What the OSI line lacks is the nice 
-server program that allows a low-frustration setup of an OSI starting at basically 'ground zero'.
+ADTPro (Apple Disk Transfer ProDOS https://github.com/ADTPro/adtpro ) is an amazing tool for Apple II computers.  
+Using nothing but a serial connection, ADTPRo can push across a small assembly program that allows a PC to push 
+across ProDOS operating system, boot the Apple II and move disk images to the Apple II.  The OSI world has some 
+pieces of this functionality with the disk tools of David Gesswein and Mark Spankus.  What the OSI line lacks is 
+the nice server program that allows a low-frustration setup of an OSI starting at basically 'ground zero'.
 
 Goals:
 
-Create an equivalent of the ADTPro for OSI computers, Starting with purely serial-based systems and moving to 
+Create an equivalent of the ADTPro for OSI computers, starting with purely serial-based systems and moving to 
 the later video-based ones.
 
 Re-use of existing code (ADTPro, OSI DIsk tools) is key, wih permission of course.
