@@ -1,5 +1,5 @@
 # ODTos65
-Create a tool for OSI computer like the ADTPro tool for Apple II computers
+Create a tool for OSI computers similar to the ADTPro tool for Apple II computers
 
 Intro:
 
